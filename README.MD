@@ -15,4 +15,4 @@
   
   # Winrar - Faça o DOWLOAD se não tiver
   
-<a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-621pt.exe">Clique aqui para fazer download 64bit em PT</strong><strong><a>
+<a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-621pt.exe">Clique aqui para fazer download  em PORTUGUES</strong><strong><a>
