@@ -11,3 +11,8 @@
 
   
   # Veja nesse video, vou ensinar a extrair!!
+
+  
+  # Winrar - Faça o DOWLOAD se não tiver
+  
+<a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-621pt.exe">Clique aqui para fazer download 64bit em PT</strong><strong><a>
