@@ -5,6 +5,6 @@
 
 # Veja nesse video, vou ensinar a extrair!!
 
-src="https://github.com/Gilmarsantosfilho/VirtualBox/blob/main/Captura%20de%20Tela.png"
+<img="https://github.com/Gilmarsantosfilho/VirtualBox/blob/main/Captura%20de%20Tela.png">
 
 # extrai o 5 arquivo.zip direto numa pasta
